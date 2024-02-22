@@ -1,0 +1,262 @@
+,Respondent ID,Loan taken data ID,Loan taken name,Loan taken loan tool,Loan taken amount taken,Loan taken date,Loan taken loan type,debit acc,debit amt,credit acc,credit amt
+0,4425,LT00002969,Loan taken 1,Friends,5000.0,2021-09-28,Business,informal loan,5000.0,cash,5000.0
+1,4425,LT00003128,Loan taken 2,Supplier,750.0,2021-10-23,Business,purchases,750.0,AP,750.0
+2,4425,LT00003330,Loan taken 3,Friends,2750.0,2021-11-16,Business,informal loan,2750.0,cash,2750.0
+3,4425,LT00003442,Loan taken 4,Friends,10000.0,2021-12-06,Business,informal loan,10000.0,cash,10000.0
+4,4425,LT00003535,Loan taken 5,"Merchandiser, incl. buy-now-pay-later",380.0,2022-01-06,Business,purchases,380.0,AP,380.0
+5,4425,LT00003595,Loan taken 6,Friends,2000.0,2022-01-13,Business,informal loan,2000.0,cash,2000.0
+6,4425,LT00003643,Loan taken 7,Friends,500.0,2022-02-10,Business,informal loan,500.0,cash,500.0
+7,4429,LT00001522,Loan taken 1,Other (specify),15000.0,2021-04-22,Business,informal loan,15000.0,cash,15000.0
+8,4431,LT00001440,Loan taken 1,Deposit taking microfinance (MDI),269000.0,2019-07-01,Business,,,,
+9,4435,LT00001438,Loan taken 1,Deposit taking microfinance (MDI),60000.0,2020-10-30,Business,,,,
+10,4435,LT00001758,Loan taken 2,Other (specify),2000.0,2021-06-01,Personal,informal loan,2000.0,cash,2000.0
+11,4435,LT00002921,Loan taken 3,Family,50000.0,2021-08-20,Business,informal loan,50000.0,cash,50000.0
+12,4436,LT00002258,Loan taken 1,MFI,100000.0,2020-03-14,Business,long term loan,100000.0,cash,100000.0
+13,4436,LT00002836,Loan taken 2,Friends,3000.0,2021-09-03,Business,informal loan,3000.0,cash,3000.0
+14,4436,LT00002859,Loan taken 3,Friends,3000.0,2021-09-03,Business,informal loan,3000.0,cash,3000.0
+15,4436,LT00002914,Loan taken 4,Supplier,3200.0,2021-09-15,Business,purchases,3200.0,AP,3200.0
+16,4436,LT00004292,Loan taken 5,Friends,10000.0,2022-03-29,Business,informal loan,10000.0,cash,10000.0
+17,4436,LT00004293,Loan taken 6,Friends,23000.0,2022-04-05,Business,informal loan,23000.0,cash,23000.0
+18,4436,LT00004300,Loan taken 7,Money lender,50000.0,2022-04-12,Business,short term loan,50000.0,cash,50000.0
+19,4437,LT00001399,Loan taken 1,Friends,18000.0,2020-12-30,Personal,informal loan,18000.0,cash,18000.0
+20,4438,LT00001464,Loan taken 1,"Informal savings group (used for business, VSLA, Equb, Edir …)",32000.0,2020-09-09,Business,informal loan,32000.0,cash,32000.0
+21,4438,LT00001465,Loan taken 2,Family,50000.0,2021-04-07,Business,informal loan,50000.0,cash,50000.0
+22,4442,LT00001404,Loan taken 1,MFI,100000.0,2020-04-12,Business,long term loan,100000.0,cash,100000.0
+23,4443,LT00001483,Loan taken 1,Family,60000.0,2020-07-08,Business,informal loan,60000.0,cash,60000.0
+24,4443,LT00001484,Loan taken 2,SACCO/Cooperative,150000.0,2020-04-14,Business,long term loan,150000.0,cash,150000.0
+25,4443,LT00001518,Loan taken 3,Supplier,5000.0,2021-05-15,Business,purchases,5000.0,AP,5000.0
+26,4443,LT00002872,Loan taken 4,Family,40000.0,2021-08-09,Business,informal loan,40000.0,cash,40000.0
+27,4444,LT00001442,Loan taken 1,SACCO/Cooperative,400000.0,2020-08-14,Business,long term loan,400000.0,cash,400000.0
+28,4444,LT00002678,Loan taken 2,"Informal savings group (used for business, VSLA, Equb, Edir …)",6000.0,2021-08-18,Business,informal loan,6000.0,cash,6000.0
+29,4446,LT00001406,Loan taken 1,Commercial bank,200000.0,2020-10-13,Business,long term loan,200000.0,cash,200000.0
+30,4446,LT00001407,Loan taken 2,MFI,400000.0,2020-04-12,Business,long term loan,400000.0,cash,400000.0
+31,4446,LT00001578,Loan taken 3,Friends,3200.0,2021-04-28,Business,informal loan,3200.0,cash,3200.0
+32,4446,LT00004285,Loan taken 4,Friends,10000.0,2022-04-02,Business,informal loan,10000.0,cash,10000.0
+33,4448,LT00001884,Loan taken 1,Vendor,35000.0,2021-01-21,Business,purchases,35000.0,AP,35000.0
+34,4450,LT00003580,Loan taken 1,Vendor,3000.0,2022-01-06,Business,purchases,3000.0,AP,3000.0
+35,4450,LT00003607,Loan taken 2,Vendor,3000.0,2022-01-27,Business,purchases,3000.0,AP,3000.0
+36,4452,LT00001433,Loan taken 1,Friends,30000.0,2021-01-14,Business,informal loan,30000.0,cash,30000.0
+37,4452,LT00001543,Loan taken 2,Supplier,4950.0,2021-04-27,Business,purchases,4950.0,AP,4950.0
+38,4452,LT00001656,Loan taken 3,Supplier,6000.0,2021-05-25,Business,purchases,6000.0,AP,6000.0
+39,4452,LT00003517,Loan taken 4,Vendor,5000.0,2021-12-22,Business,purchases,5000.0,AP,5000.0
+40,4452,LT00003532,Loan taken 5,Vendor,5000.0,2021-12-30,Business,purchases,5000.0,AP,5000.0
+41,4452,LT00003629,Loan taken 6,Vendor,5000.0,2022-02-03,Business,purchases,5000.0,AP,5000.0
+42,4452,LT00004174,Loan taken 7,Vendor,5000.0,2022-02-17,Business,purchases,5000.0,AP,5000.0
+43,4452,LT00004240,Loan taken 8,Vendor,8100.0,2022-03-10,Business,purchases,8100.0,AP,8100.0
+44,4452,LT00004249,Loan taken 9,Vendor,8100.0,2022-03-17,Business,purchases,8100.0,AP,8100.0
+45,4452,LT00004266,Loan taken 10,Vendor,8100.0,2022-03-24,Business,purchases,8100.0,AP,8100.0
+46,4452,LT00004298,Loan taken 11,Vendor,8100.0,2022-04-07,Business,purchases,8100.0,AP,8100.0
+47,4456,LT00001390,Loan taken 1,Family,250000.0,2020-06-07,Business,informal loan,250000.0,cash,250000.0
+48,4456,LT00002932,Loan taken 2,Vendor,1400000.0,2021-08-31,Business,purchases,1400000.0,AP,1400000.0
+49,4458,LT00001796,Loan taken 1,Government bank,1600000.0,2019-08-01,Personal,,,,
+50,4458,LT00003162,Loan taken 2,Vendor,900.0,2021-10-16,Business,purchases,900.0,AP,900.0
+51,4458,LT00003163,Loan taken 3,Vendor,2650.0,2021-10-19,Business,purchases,2650.0,AP,2650.0
+52,4458,LT00003164,Loan taken 4,Vendor,1000.0,2021-10-21,Business,purchases,1000.0,AP,1000.0
+53,4458,LT00003165,Loan taken 5,Vendor,2290.0,2021-10-25,Business,purchases,2290.0,AP,2290.0
+54,4458,LT00003208,Loan taken 6,Vendor,14800.0,2021-10-12,Business,purchases,14800.0,AP,14800.0
+55,4458,LT00003484,Loan taken 7,Vendor,3300.0,2021-11-25,Business,purchases,3300.0,AP,3300.0
+56,4458,LT00003485,Loan taken 8,Vendor,950.0,2021-11-26,Business,purchases,950.0,AP,950.0
+57,4458,LT00003486,Loan taken 9,Vendor,1200.0,2021-11-30,Business,purchases,1200.0,AP,1200.0
+58,4458,LT00003487,Loan taken 10,Vendor,2950.0,2021-12-01,Business,purchases,2950.0,AP,2950.0
+59,4458,LT00003488,Loan taken 11,Vendor,15620.0,2021-12-08,Business,purchases,15620.0,AP,15620.0
+60,4458,LT00003514,Loan taken 12,Vendor,12950.0,2021-11-15,Business,purchases,12950.0,AP,12950.0
+61,4458,LT00003515,Loan taken 13,Vendor,14800.0,2021-11-12,Business,purchases,14800.0,AP,14800.0
+62,4458,LT00003516,Loan taken 14,Vendor,18270.0,2021-11-13,Business,purchases,18270.0,AP,18270.0
+63,4458,LT00004255,Loan taken 15,Vendor,27500.0,2022-03-17,Business,purchases,27500.0,AP,27500.0
+64,4458,LT00004256,Loan taken 16,Vendor,27500.0,2022-03-17,Business,purchases,27500.0,AP,27500.0
+65,4458,LT00004257,Loan taken 17,Vendor,9000.0,2022-03-17,Business,purchases,9000.0,AP,9000.0
+66,4458,LT00004258,Loan taken 18,Vendor,1000.0,2022-03-21,Business,purchases,1000.0,AP,1000.0
+67,4458,LT00004301,Loan taken 19,Vendor,40000.0,2022-04-02,Business,purchases,40000.0,AP,40000.0
+68,4458,LT00004302,Loan taken 20,Vendor,27000.0,2022-04-01,Business,purchases,27000.0,AP,27000.0
+69,4458,LT00004303,Loan taken 21,Vendor,5000.0,2022-04-01,Business,purchases,5000.0,AP,5000.0
+70,4462,LT00003143,Loan taken 1,Government bank,666000.0,2021-08-01,Business,,,,
+71,4463,LT00001792,Loan taken 1,Supplier,10000.0,2021-05-31,Business,purchases,10000.0,AP,10000.0
+72,4463,LT00001793,Loan taken 2,Supplier,40000.0,2021-05-26,Business,purchases,40000.0,AP,40000.0
+73,4464,LT00001398,Loan taken 1,Friends,100000.0,2020-04-12,Business,informal loan,100000.0,cash,100000.0
+74,4464,LT00001579,Loan taken 2,Family,15000.0,2021-05-01,Business,informal loan,15000.0,cash,15000.0
+75,4464,LT00001593,Loan taken 3,Friends,11000.0,2021-04-17,Business,informal loan,11000.0,cash,11000.0
+76,4464,LT00001866,Loan taken 4,Friends,24000.0,2021-05-10,Business,informal loan,24000.0,cash,24000.0
+77,4464,LT00002273,Loan taken 5,Vendor,20000.0,2021-07-16,Business,purchases,20000.0,AP,20000.0
+78,4464,LT00003119,Loan taken 6,Vendor,200000.0,2021-08-27,Business,purchases,200000.0,AP,200000.0
+79,4464,LT00003346,Loan taken 7,Vendor,4400.0,2021-11-27,Business,purchases,4400.0,AP,4400.0
+80,4464,LT00003477,Loan taken 8,Friends,800.0,2021-12-18,Business,informal loan,800.0,cash,800.0
+81,4464,LT00003582,Loan taken 9,Vendor,40000.0,2021-12-25,Business,purchases,40000.0,AP,40000.0
+82,4464,LT00003600,Loan taken 10,Vendor,10000.0,2022-01-18,Business,purchases,10000.0,AP,10000.0
+83,4464,LT00004263,Loan taken 11,Friends,40000.0,2022-03-15,Business,informal loan,40000.0,cash,40000.0
+84,4465,LT00002058,Loan taken 1,Friends,200000.0,2021-01-01,Business,informal loan,200000.0,cash,200000.0
+85,4465,LT00002059,Loan taken 2,Friends,200000.0,2021-01-01,Business,informal loan,200000.0,cash,200000.0
+86,4465,LT00002125,Loan taken 3,Friends,200000.0,2021-01-01,Business,informal loan,200000.0,cash,200000.0
+87,4467,LT00002218,Loan taken 1,Vendor,39000.0,2021-07-12,Business,purchases,39000.0,AP,39000.0
+88,4467,LT00002269,Loan taken 2,Vendor,38400.0,2021-07-12,Business,purchases,38400.0,AP,38400.0
+89,4467,LT00002343,Loan taken 3,Vendor,38000.0,2021-07-19,Business,purchases,38000.0,AP,38000.0
+90,4470,LT00001485,Loan taken 1,Friends,350000.0,2020-03-02,Business,informal loan,350000.0,cash,350000.0
+91,4471,LT00003116,Loan taken 1,Other (specify),2000.0,2021-10-14,Business,informal loan,2000.0,cash,2000.0
+92,4473,LT00003585,Loan taken 1,"Merchandiser, incl. buy-now-pay-later",1700.0,2022-01-17,Business,purchases,1700.0,AP,1700.0
+93,4477,LT00004194,Loan taken 1,Other (specify),5000.0,2022-01-24,Business,informal loan,5000.0,cash,5000.0
+94,4484,LT00001480,Loan taken 1,SACCO/Cooperative,300000.0,2020-03-16,Business,long term loan,300000.0,cash,300000.0
+95,4490,LT00005440,Loan taken 1,Friends,10000.0,2022-11-02,Personal,informal loan,10000.0,cash,10000.0
+96,4490,LT00005441,Loan taken 2,Supplier,50000.0,2022-10-31,Business,purchases,50000.0,AP,50000.0
+97,4491,LT00001661,Loan taken 1,Supplier,4200.0,2021-05-17,Business,purchases,4200.0,AP,4200.0
+98,4491,LT00002226,Loan taken 2,Supplier,8100.0,2021-06-02,Business,purchases,8100.0,AP,8100.0
+99,4493,LT00001489,Loan taken 1,Family,75000.0,2020-09-10,Business,informal loan,75000.0,cash,75000.0
+100,4493,LT00003030,Loan taken 2,Friends,30000.0,2021-10-08,Business,informal loan,30000.0,cash,30000.0
+101,4494,LT00001410,Loan taken 1,Family,150000.0,2020-03-30,Business,informal loan,150000.0,cash,150000.0
+102,4494,LT00001652,Loan taken 2,Friends,110000.0,2021-05-12,Business,informal loan,110000.0,cash,110000.0
+103,4494,LT00001882,Loan taken 3,Family,70000.0,2021-06-08,Business,informal loan,70000.0,cash,70000.0
+104,4494,LT00002936,Loan taken 4,Vendor,140000.0,2021-09-15,Business,purchases,140000.0,AP,140000.0
+105,4494,LT00003197,Loan taken 5,Vendor,9000.0,2021-10-28,Business,purchases,9000.0,AP,9000.0
+106,4496,LT00001435,Loan taken 1,Commercial bank,4000000.0,2021-01-12,Business,long term loan,4000000.0,cash,4000000.0
+107,4500,LT00003309,Loan taken 1,Family,50000.0,2021-11-22,Business,informal loan,50000.0,cash,50000.0
+108,4501,LT00001402,Loan taken 1,Friends,28000.0,2021-02-28,Business,informal loan,28000.0,cash,28000.0
+109,4501,LT00001644,Loan taken 2,Friends,2000.0,2021-05-22,Personal,informal loan,2000.0,cash,2000.0
+110,4503,LT00002603,Loan taken 1,MFI,300000.0,2021-05-28,Business,long term loan,300000.0,cash,300000.0
+111,4506,LT00001556,Loan taken 1,MFI,700000.0,2018-04-29,Business,long term loan,700000.0,cash,700000.0
+112,4506,LT00004193,Loan taken 2,Vendor,86947.5,2022-02-06,Business,purchases,86947.5,AP,86947.5
+113,4507,LT00001429,Loan taken 1,Commercial bank,1200000.0,2018-04-14,Business,long term loan,1200000.0,cash,1200000.0
+114,4507,LT00001430,Loan taken 2,Friends,50000.0,2020-04-14,Business,informal loan,50000.0,cash,50000.0
+115,4523,LT00001504,Loan taken 1,Friends,400000.0,2021-01-04,Business,informal loan,400000.0,cash,400000.0
+116,4523,LT00001505,Loan taken 2,Supplier,900000.0,2019-04-23,Business,purchases,900000.0,AP,900000.0
+117,4526,LT00001409,Loan taken 1,Deposit taking microfinance (MDI),100000.0,2020-12-10,Business,,,,
+118,4528,LT00001610,Loan taken 1,Supplier,1700.0,2021-05-10,Business,purchases,1700.0,AP,1700.0
+119,4528,LT00001611,Loan taken 2,Supplier,1700.0,2021-05-11,Business,purchases,1700.0,AP,1700.0
+120,4528,LT00001612,Loan taken 3,Supplier,1700.0,2021-05-11,Business,purchases,1700.0,AP,1700.0
+121,4528,LT00001613,Loan taken 4,Supplier,1700.0,2021-05-12,Business,purchases,1700.0,AP,1700.0
+122,4528,LT00001784,Loan taken 5,Family,40000.0,2020-07-10,Business,informal loan,40000.0,cash,40000.0
+123,4528,LT00001785,Loan taken 6,Employer,10000.0,2021-01-16,Business,informal loan,10000.0,cash,10000.0
+124,4528,LT00001786,Loan taken 7,Family,40000.0,2020-06-03,Business,informal loan,40000.0,cash,40000.0
+125,4528,LT00002873,Loan taken 8,Supplier,5440.0,2021-08-31,Business,purchases,5440.0,AP,5440.0
+126,4528,LT00002874,Loan taken 9,Supplier,5060.0,2021-09-04,Personal,purchases,5060.0,AP,5060.0
+127,4528,LT00002875,Loan taken 10,Supplier,5060.0,2021-09-03,Business,purchases,5060.0,AP,5060.0
+128,4530,LT00002251,Loan taken 1,Vendor,11600.0,2021-07-17,Business,purchases,11600.0,AP,11600.0
+129,4530,LT00002943,Loan taken 2,Supplier,49600.0,2021-09-16,Business,purchases,49600.0,AP,49600.0
+130,4530,LT00002944,Loan taken 3,Supplier,24800.0,2021-09-21,Business,purchases,24800.0,AP,24800.0
+131,4530,LT00002968,Loan taken 4,Supplier,49600.0,2021-10-01,Business,purchases,49600.0,AP,49600.0
+132,4530,LT00002992,Loan taken 5,Supplier,37600.0,2021-09-29,Business,purchases,37600.0,AP,37600.0
+133,4530,LT00003013,Loan taken 6,"Merchandiser, incl. buy-now-pay-later",12400.0,2021-10-11,Business,purchases,12400.0,AP,12400.0
+134,4530,LT00003160,Loan taken 7,Supplier,12800.0,2021-10-21,Business,purchases,12800.0,AP,12800.0
+135,4530,LT00003616,Loan taken 8,Supplier,12800.0,2022-02-01,Business,purchases,12800.0,AP,12800.0
+136,4530,LT00004225,Loan taken 9,Supplier,13300.0,2022-03-08,Business,purchases,13300.0,AP,13300.0
+137,4530,LT00004312,Loan taken 10,Vendor,52400.0,2022-04-07,Business,purchases,52400.0,AP,52400.0
+138,4531,LT00001441,Loan taken 1,SACCO/Cooperative,200000.0,2020-12-16,Business,long term loan,200000.0,cash,200000.0
+139,4533,LT00001618,Loan taken 1,Supplier,31000.0,2021-01-01,Business,purchases,31000.0,AP,31000.0
+140,4533,LT00003300,Loan taken 2,Vendor,1950.0,2021-11-22,Business,purchases,1950.0,AP,1950.0
+141,4533,LT00003345,Loan taken 3,Vendor,15910.0,2021-11-29,Business,purchases,15910.0,AP,15910.0
+142,4533,LT00003552,Loan taken 4,Vendor,28287.0,2022-01-04,Business,purchases,28287.0,AP,28287.0
+143,4533,LT00003556,Loan taken 5,Vendor,15000.0,2021-12-18,Business,purchases,15000.0,AP,15000.0
+144,4533,LT00003557,Loan taken 6,Vendor,40000.0,2021-12-30,Business,purchases,40000.0,AP,40000.0
+145,4533,LT00003597,Loan taken 7,Vendor,55630.0,2022-01-17,Business,purchases,55630.0,AP,55630.0
+146,4533,LT00003608,Loan taken 8,Vendor,55940.0,2022-01-25,Business,purchases,55940.0,AP,55940.0
+147,4533,LT00003609,Loan taken 9,Vendor,4640.0,2022-01-23,Business,purchases,4640.0,AP,4640.0
+148,4533,LT00003639,Loan taken 10,Vendor,76950.0,2022-01-28,Business,purchases,76950.0,AP,76950.0
+149,4533,LT00003640,Loan taken 11,Vendor,44550.0,2022-02-03,Business,purchases,44550.0,AP,44550.0
+150,4533,LT00004166,Loan taken 12,Vendor,30275.0,2022-02-08,Business,purchases,30275.0,AP,30275.0
+151,4533,LT00004167,Loan taken 13,Vendor,34900.0,2022-02-10,Business,purchases,34900.0,AP,34900.0
+152,4533,LT00004168,Loan taken 14,Vendor,18778.0,2022-02-07,Business,purchases,18778.0,AP,18778.0
+153,4533,LT00004169,Loan taken 15,Vendor,30855.0,2022-02-03,Business,purchases,30855.0,AP,30855.0
+154,4533,LT00004189,Loan taken 16,Vendor,52050.0,2022-02-19,Business,purchases,52050.0,AP,52050.0
+155,4533,LT00004190,Loan taken 17,Vendor,96190.0,2022-02-21,Business,purchases,96190.0,AP,96190.0
+156,4533,LT00004231,Loan taken 18,Vendor,73950.0,2022-02-28,Business,purchases,73950.0,AP,73950.0
+157,4533,LT00004244,Loan taken 19,Vendor,32850.0,2022-03-07,Business,purchases,32850.0,AP,32850.0
+158,4533,LT00004260,Loan taken 20,Vendor,51990.0,2022-03-16,Business,purchases,51990.0,AP,51990.0
+159,4534,LT00001875,Loan taken 1,MFI,150000.0,2021-01-01,Business,long term loan,150000.0,cash,150000.0
+160,4536,LT00002366,Loan taken 1,Deposit taking microfinance (MDI),40000.0,2016-08-31,Business,,,,
+161,4536,LT00004313,Loan taken 2,Friends,8400.0,2022-04-11,Business,informal loan,8400.0,cash,8400.0
+162,4536,LT00004712,Loan taken 3,MFI,22590.0,2020-09-02,Personal,long term loan,22590.0,cash,22590.0
+163,4537,LT00002203,Loan taken 1,MFI,250000.0,2017-08-16,Business,long term loan,250000.0,cash,250000.0
+164,4538,LT00002638,Loan taken 1,Vendor,50000.0,2021-08-09,Business,purchases,50000.0,AP,50000.0
+165,4538,LT00002639,Loan taken 2,Vendor,96400.0,2021-08-14,Business,purchases,96400.0,AP,96400.0
+166,4541,LT00001400,Loan taken 1,Commercial bank,3000.0,2018-07-12,Business,long term loan,3000.0,cash,3000.0
+167,4544,LT00001459,Loan taken 1,Friends,400000.0,2013-07-10,Business,informal loan,400000.0,cash,400000.0
+168,4544,LT00003114,Loan taken 2,Neighbour,2000.0,2021-10-14,Business,informal loan,2000.0,cash,2000.0
+169,4544,LT00003509,Loan taken 3,Supplier,35600.0,2021-12-14,Business,purchases,35600.0,AP,35600.0
+170,4544,LT00004254,Loan taken 4,Friends,500000.0,2022-03-14,Business,informal loan,500000.0,cash,500000.0
+171,4575,LT00001462,Loan taken 1,SACCO/Cooperative,200000.0,2021-03-30,Business,long term loan,200000.0,cash,200000.0
+172,4579,LT00001506,Loan taken 1,Supplier,220000.0,2021-03-03,Business,purchases,220000.0,AP,220000.0
+173,4579,LT00001507,Loan taken 2,Supplier,133000.0,2019-04-23,Business,purchases,133000.0,AP,133000.0
+174,4583,LT00001439,Loan taken 1,Friends,250000.0,2020-10-15,Business,informal loan,250000.0,cash,250000.0
+175,4584,LT00001883,Loan taken 1,Vendor,219000.0,2021-06-12,Business,purchases,219000.0,AP,219000.0
+176,4584,LT00002604,Loan taken 2,Vendor,95000.0,2021-08-07,Business,purchases,95000.0,AP,95000.0
+177,4584,LT00002605,Loan taken 3,Vendor,95000.0,2021-08-07,Business,purchases,95000.0,AP,95000.0
+178,4608,LT00002252,Loan taken 1,Vendor,50000.0,2021-07-16,Business,purchases,50000.0,AP,50000.0
+179,4608,LT00002880,Loan taken 2,Supplier,87000.0,2021-08-03,Business,purchases,87000.0,AP,87000.0
+180,4608,LT00002881,Loan taken 3,Supplier,37000.0,2021-09-08,Business,purchases,37000.0,AP,37000.0
+181,4608,LT00002996,Loan taken 4,Family,100187.0,2021-10-07,Business,informal loan,100187.0,cash,100187.0
+182,4608,LT00003027,Loan taken 5,Family,7780.0,2021-10-15,Business,informal loan,7780.0,cash,7780.0
+183,4608,LT00003305,Loan taken 6,Family,150.0,2021-11-25,Personal,informal loan,150.0,cash,150.0
+184,4608,LT00003631,Loan taken 7,Supplier,82000.0,2022-02-09,Business,purchases,82000.0,AP,82000.0
+185,4608,LT00004232,Loan taken 8,Supplier,82000.0,2022-02-09,Business,purchases,82000.0,AP,82000.0
+186,4608,LT00004233,Loan taken 9,Family,87000.0,2022-03-05,Business,informal loan,87000.0,cash,87000.0
+187,4608,LT00004304,Loan taken 10,Supplier,2200.0,2022-04-11,Business,purchases,2200.0,AP,2200.0
+188,4618,LT00001822,Loan taken 1,MFI,200000.0,2020-04-23,Business,long term loan,200000.0,cash,200000.0
+189,4622,LT00002051,Loan taken 1,Friends,50000.0,2021-02-08,Personal,informal loan,50000.0,cash,50000.0
+190,4622,LT00002052,Loan taken 2,Family,22920.0,2021-04-01,Personal,informal loan,22920.0,cash,22920.0
+191,4622,LT00002053,Loan taken 3,Family,50000.0,2020-08-12,Business,informal loan,50000.0,cash,50000.0
+192,4622,LT00002054,Loan taken 4,Family,70000.0,2021-04-15,Business,informal loan,70000.0,cash,70000.0
+193,4622,LT00002421,Loan taken 5,Friends,10000.0,2021-07-24,Business,informal loan,10000.0,cash,10000.0
+194,4622,LT00002488,Loan taken 6,Friends,50000.0,2021-07-01,Business,informal loan,50000.0,cash,50000.0
+195,4622,LT00002792,Loan taken 7,Friends,39000.0,2021-08-02,Business,informal loan,39000.0,cash,39000.0
+196,4622,LT00002928,Loan taken 8,Friends,4000.0,2021-09-09,Personal,informal loan,4000.0,cash,4000.0
+197,4622,LT00003422,Loan taken 9,Vendor,23000.0,2021-11-23,Business,purchases,23000.0,AP,23000.0
+198,4622,LT00003423,Loan taken 10,Family,13200.0,2021-11-23,Business,informal loan,13200.0,cash,13200.0
+199,4622,LT00003598,Loan taken 11,Vendor,26000.0,2022-01-20,Business,purchases,26000.0,AP,26000.0
+200,4622,LT00003599,Loan taken 12,Vendor,13200.0,2022-01-07,Business,purchases,13200.0,AP,13200.0
+201,4622,LT00004181,Loan taken 13,Vendor,50000.0,2022-02-22,Business,purchases,50000.0,AP,50000.0
+202,4622,LT00004243,Loan taken 14,Vendor,73600.0,2022-03-04,Business,purchases,73600.0,AP,73600.0
+203,4622,LT00004261,Loan taken 15,Friends,10000.0,2022-03-15,Business,informal loan,10000.0,cash,10000.0
+204,4622,LT00004262,Loan taken 16,Friends,15000.0,2022-03-15,Business,informal loan,15000.0,cash,15000.0
+205,4622,LT00004278,Loan taken 17,Friends,15000.0,2022-03-26,Business,informal loan,15000.0,cash,15000.0
+206,4622,LT00004279,Loan taken 18,Friends,10000.0,2022-03-26,Business,informal loan,10000.0,cash,10000.0
+207,4624,LT00001481,Loan taken 1,Commercial bank,40000.0,2021-03-13,Business,long term loan,40000.0,cash,40000.0
+208,4624,LT00001635,Loan taken 2,Friends,60000.0,2021-05-13,Personal,informal loan,60000.0,cash,60000.0
+209,4625,LT00001445,Loan taken 1,SACCO/Cooperative,120000.0,2020-02-12,Business,long term loan,120000.0,cash,120000.0
+210,4634,LT00001454,Loan taken 1,Commercial bank,1200000.0,2019-09-20,Business,long term loan,1200000.0,cash,1200000.0
+211,4661,LT00002983,Loan taken 1,Supplier,3000.0,2021-10-04,Business,purchases,3000.0,AP,3000.0
+212,4661,LT00003636,Loan taken 2,Vendor,5000.0,2022-02-05,Business,purchases,5000.0,AP,5000.0
+213,4670,LT00001431,Loan taken 1,Supplier,300000.0,2018-04-14,Business,purchases,300000.0,AP,300000.0
+214,4670,LT00001432,Loan taken 2,Supplier,90000.0,2020-03-02,Business,purchases,90000.0,AP,90000.0
+215,4676,LT00002374,Loan taken 1,Family,950000.0,2021-07-29,Business,informal loan,950000.0,cash,950000.0
+216,4716,LT00001874,Loan taken 1,Friends,9800.0,2021-05-17,Personal,informal loan,9800.0,cash,9800.0
+217,4724,LT00001434,Loan taken 1,Family,50000.0,2018-02-28,Business,informal loan,50000.0,cash,50000.0
+218,4724,LT00001569,Loan taken 2,Supplier,4000.0,2021-04-25,Business,purchases,4000.0,AP,4000.0
+219,4724,LT00002116,Loan taken 3,Vendor,25000.0,2021-07-01,Business,purchases,25000.0,AP,25000.0
+220,4732,LT00001451,Loan taken 1,SACCO/Cooperative,100000.0,2020-12-04,Business,long term loan,100000.0,cash,100000.0
+221,4732,LT00001452,Loan taken 2,Supplier,15000.0,2020-10-02,Business,purchases,15000.0,AP,15000.0
+222,4737,LT00001687,Loan taken 1,Commercial bank,40000.0,2021-05-31,Business,long term loan,40000.0,cash,40000.0
+223,4738,LT00001509,Loan taken 1,SACCO/Cooperative,80000.0,2020-12-16,Business,long term loan,80000.0,cash,80000.0
+224,4743,LT00004282,Loan taken 1,Commercial bank,1000000.0,2022-04-04,Business,long term loan,1000000.0,cash,1000000.0
+225,4744,LT00001471,Loan taken 1,Supplier,2485.0,2021-03-01,Business,purchases,2485.0,AP,2485.0
+226,4744,LT00003203,Loan taken 2,Family,480000.0,2021-08-10,Business,informal loan,480000.0,cash,480000.0
+227,4789,LT00001541,Loan taken 1,Family,7000.0,2020-11-01,Business,informal loan,7000.0,cash,7000.0
+228,4789,LT00001542,Loan taken 2,Friends,20000.0,2020-12-01,Business,informal loan,20000.0,cash,20000.0
+229,4793,LT00001539,Loan taken 1,Friends,5000.0,2021-03-29,Business,informal loan,5000.0,cash,5000.0
+230,4793,LT00001571,Loan taken 2,Commercial bank,9500.0,2021-04-26,Business,long term loan,9500.0,cash,9500.0
+231,4793,LT00001577,Loan taken 3,Friends,1000.0,2021-04-16,Business,informal loan,1000.0,cash,1000.0
+232,4793,LT00001877,Loan taken 4,Friends,5000.0,2021-06-23,Business,informal loan,5000.0,cash,5000.0
+233,4793,LT00001878,Loan taken 5,Friends,6000.0,2021-06-18,Business,informal loan,6000.0,cash,6000.0
+234,4797,LT00003592,Loan taken 1,"Informal savings group (used for business, VSLA, Equb, Edir …)",30000.0,2022-01-27,Business,informal loan,30000.0,cash,30000.0
+235,4817,LT00001572,Loan taken 1,MFI,8000.0,2017-08-30,Personal,long term loan,8000.0,cash,8000.0
+236,4819,LT00001619,Loan taken 1,Supplier,65000.0,2021-03-04,Business,purchases,65000.0,AP,65000.0
+237,4822,LT00002213,Loan taken 1,Vendor,16200.0,2021-07-10,Business,purchases,16200.0,AP,16200.0
+238,4822,LT00002214,Loan taken 2,Vendor,1600.0,2021-07-05,Business,purchases,1600.0,AP,1600.0
+239,4822,LT00002215,Loan taken 3,Vendor,17860.0,2021-07-06,Business,purchases,17860.0,AP,17860.0
+240,4822,LT00002216,Loan taken 4,Vendor,640.0,2021-07-12,Business,purchases,640.0,AP,640.0
+241,4822,LT00002630,Loan taken 5,Vendor,20100.0,2021-08-14,Business,purchases,20100.0,AP,20100.0
+242,4822,LT00002795,Loan taken 6,Vendor,37760.0,2021-09-04,Business,purchases,37760.0,AP,37760.0
+243,4822,LT00002798,Loan taken 7,Vendor,17600.0,2021-08-24,Business,purchases,17600.0,AP,17600.0
+244,4822,LT00002799,Loan taken 8,Vendor,11760.0,2021-08-25,Business,purchases,11760.0,AP,11760.0
+245,4822,LT00002915,Loan taken 9,Vendor,11760.0,2021-09-13,Business,purchases,11760.0,AP,11760.0
+246,4822,LT00002916,Loan taken 10,Vendor,17400.0,2021-09-09,Business,purchases,17400.0,AP,17400.0
+247,4822,LT00003189,Loan taken 11,Vendor,27000.0,2021-10-26,Business,purchases,27000.0,AP,27000.0
+248,4822,LT00003190,Loan taken 12,Vendor,8500.0,2021-10-26,Business,purchases,8500.0,AP,8500.0
+249,4822,LT00003191,Loan taken 13,Vendor,16200.0,2021-10-26,Business,purchases,16200.0,AP,16200.0
+250,4822,LT00003192,Loan taken 14,Vendor,10750.0,2021-10-26,Business,purchases,10750.0,AP,10750.0
+251,4822,LT00003220,Loan taken 15,Vendor,13910.0,2021-11-02,Business,purchases,13910.0,AP,13910.0
+252,4822,LT00003301,Loan taken 16,Vendor,11450.0,2021-11-09,Business,purchases,11450.0,AP,11450.0
+253,4822,LT00003302,Loan taken 17,Vendor,1250.0,2021-11-09,Business,purchases,1250.0,AP,1250.0
+254,4822,LT00003303,Loan taken 18,Vendor,18900.0,2021-11-15,Business,purchases,18900.0,AP,18900.0
+255,4822,LT00003304,Loan taken 19,Vendor,8600.0,2021-11-16,Business,purchases,8600.0,AP,8600.0
+256,4822,LT00003547,Loan taken 20,Vendor,1250.0,2021-11-09,Business,purchases,1250.0,AP,1250.0
+257,4822,LT00004195,Loan taken 21,Vendor,15000.0,2022-02-12,Business,purchases,15000.0,AP,15000.0
+258,5127,LT00001825,Loan taken 1,Family,322330.0,2020-03-01,Business,informal loan,322330.0,cash,322330.0
+259,5127,LT00001826,Loan taken 2,Commercial bank,315000.0,2020-12-28,Business,long term loan,315000.0,cash,315000.0
+260,5883,LT00001849,Loan taken 1,SACCO/Cooperative,200000.0,2021-04-01,Business,long term loan,200000.0,cash,200000.0

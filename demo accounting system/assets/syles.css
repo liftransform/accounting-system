@@ -1,0 +1,104 @@
+* {
+    /* padding: 0;
+    margin: 0; */
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+:root {
+    --side-width: 250px;
+}
+
+body {
+    /* padding: 0px; */
+    margin: 0px;
+    background-color: #FFF8DC;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.page-displayer {
+    /* border: 1px solid black; */
+    margin-left: var(--side-width);
+    padding: 2rem;
+}
+
+h1 {
+    font-weight: 900;
+}
+
+.nav-div {
+    position: fixed;
+    width: var(--side-width);
+    /* background: linear-gradient(darkblue, rgba(0, 90, 139, 0.747)); */
+    /* color: #00AE9F; */
+    /* color:black; */
+    background-color: #38A3A5;
+    height: 100vh;
+    text-align: center;
+    padding: 1rem;
+    font-size: 1.2em;
+}
+
+.nav-div > h1 {
+    margin: 2rem 0;
+}
+
+.nav-div a {
+    display: block;
+    margin: 0.5rem;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 1.5rem;
+    text-align: left;
+
+}
+
+button{
+    display: block;
+    margin-top: 1rem;    
+    border-radius: 8px;
+    padding: 0.5rem;
+    border: none;
+    background-color: #00AE9F;
+    color: white;
+    font-size: 1rem;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.267);
+}
+
+input, textarea, select {
+    display: block;
+    margin-top: 1rem;    
+    border-radius: 8px;
+    padding: 0.5rem;
+    border: none;
+    background-color: #a9f6ef;
+    color: black;
+    font-size: 1rem;
+}
+
+#statement-selector .Select-control{
+    border-radius: 5px;
+    box-shadow: 0 0 5px 2px #0c070217;   
+    background-color: #ABD8CC;
+    padding: 0.5rem;  
+}
+
+
+#statement-selector .Select-value {
+    display: flex;
+    align-items: center;
+}
+
+
+#statement-selector .Select-menu-outer {
+    background-color: #ABD8CC;
+    /* border: 1px solid black; */
+    border-top: 0px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 5px 5px 5px #0c070217;
+    /* position: fixed;
+    top: 4.5rem; */
+    /* margin-left: 1rem; */
+}
