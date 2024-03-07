@@ -10,6 +10,10 @@ from utils import filter_by_year, filter_by_year_month, filter_up_to, get_unique
 
 from ratios import calc_current_ratio, calc_debt_ratio, calc_EM, calc_FATO, calc_GP, calc_PM, calc_quick_ratio, calc_ROA, calc_ROE, calc_TATO, calc_withdrawal_ratio
 
+from better_ratio_graphs import ratio_visuals
+
+import statement_to_tables as stt
+
 ASSET = [
     'cash','ar','equipment', 'building', 
     'live stock', 'land', 
@@ -162,7 +166,7 @@ def balance_sheet(respondent_id, table: pd.DataFrame) -> pd.DataFrame:
     total_l = get_total_from_summary(liabilities)
     total_e = get_total_from_summary(equity) + retained_earnings
     
-    table_data = assets + [('Total assets', total_a)] + liabilities + [('Total liabilities', total_l)] + [('Equity', total_e), ('Total liability & Equity', total_l + total_e)]
+    table_data = assets + [('Total assets', total_a)] + liabilities + [('Total liabilities', total_l)] + [('Equity', total_e), ('Total liabilities & Equity', total_l + total_e)]
 
     formatted_table = pd.DataFrame(
         [
@@ -310,7 +314,12 @@ app.layout = html.Div(
         html.Div(
             [
                 html.Div([
-                    html.H1('Filter'),
+                    
+                    html.Div([
+                        html.Img(src='assets/images/finbit.png', id='logo'),
+                        ]
+                    ),
+                    html.H1('FINBIT'),
                     dcc.Dropdown(
                         placeholder='Select firm',
                         id='respondant-selector',
@@ -397,17 +406,30 @@ def on_filters_selected(respondent_id, year, month):
     data_filtered = filter_by_year_month(data_filtered, 'date', year, month)
     balance_sheet_data = filter_up_to(respondent_filterd, 'date', year, month)
 
-    inc_additional = f'Respondent {respondent_id} for  {month_name}, {year}'
-    balance_additional = f'Respondant {respondent_id} on {month_name} {last_day}, {year}'
+    # inc_additional = f'Respondent {respondent_id} for  {month_name}, {year}'
+    # balance_additional = f'Respondant {respondent_id} on {month_name} {last_day}, {year}'
+    inc_additional = f'for  {month_name}, {year}'
+    balance_additional = f'on {month_name} {last_day}, {year}'
 
 
     financials = html.Div(
         [
-            html.H2(f'Income statement and Additions to savings - {inc_additional}'),
-            data_table.df_to_datatable(income_statement_and_RE(respondent_id, data_filtered)),
-            html.H2(f'Balance Sheet - {balance_additional}'),
-            data_table.df_to_datatable(balance_sheet(respondent_id, balance_sheet_data)),
-        ]
+            html.Div(
+                [
+                    html.H2(f'Income Statement - {inc_additional}'),
+                    # data_table.df_to_datatable(income_statement_and_RE(respondent_id, data_filtered), True),
+                    stt.statement_to_table(income_statement_and_RE(respondent_id, data_filtered), stt.INCOME_STATEMENT),
+                ]
+            ),
+            html.Div(
+                [
+                    html.H2(f'Balance Sheet - {balance_additional}'),
+                    # data_table.df_to_datatable(balance_sheet(respondent_id, balance_sheet_data), False),
+                    stt.statement_to_table(balance_sheet(respondent_id, balance_sheet_data), stt.BALANCE_SHEET),
+                ]
+            )
+        ],
+        className='statement-container'
     )
 
 
@@ -430,10 +452,11 @@ def on_filters_selected(respondent_id, year, month):
     prevent_initial_call=True,
 )
 def ratio_updater(respondent_id):
-    ratio_data = calculate_ratio_df(data_combined2, respondent_id)
-    print(ratio_data)
-    return get_ratio_graphs(ratio_data)
+    # ratio_data = calculate_ratio_df(data_combined2, respondent_id)
+    # print(ratio_data)
+    # return get_ratio_graphs(ratio_data)
 
+    return ratio_visuals(respondent_id)
 
 
 if __name__ == '__main__':

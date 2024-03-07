@@ -1,16 +1,16 @@
 * {
-    /* padding: 0;
-    margin: 0; */
+    padding: 0;
+    margin: 0;
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    --background: #f8f8f8;
-    --selector-background: #eff5f7;
+    --background: #ffffff;
+    --selector-background: #ffffff;
+    --light-box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.02);
 }
 
 
 body {
-    /* padding: 0px; */
-    margin: 0px;
+    padding-bottom: 8px;
     /* background-color: #FFF8DC; */
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -25,6 +25,11 @@ h2 {
 
 /* #respondant-selector, #year-selector, #month-selector */
 
+#logo {
+    width: 5rem;
+    height: auto;
+}
+
 .selectors-container {
     display: flex;
     gap: 1rem;
@@ -32,7 +37,9 @@ h2 {
     align-content: center;
     padding: 0.5rem;
     background-color: var(--background);
-    box-shadow: 0 0 5px 3px #0c070217;
+    box-shadow: var(--light-box-shadow);
+
+    /* border-bottom: 1px solid grey; */
     position: fixed;
     width: 100%;
     top: 0;
@@ -55,9 +62,9 @@ h2 {
 
 .selector .Select-control{
     border-radius: 5px;
-    box-shadow: 0 0 5px 2px #0c070217;   
+    box-shadow: var(--light-box-shadow);   
     background-color: var(--selector-background);
-    padding: 0.5rem;  
+    padding: 0.5rem;
 }
 
 
@@ -74,10 +81,154 @@ h2 {
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
     overflow: hidden;
-    box-shadow: 0 0 5px 2px #0c070217;
+    box-shadow: var(--light-box-shadow);
     /* position: fixed;
     top: 4.5rem; */
     /* margin-left: 1rem; */
+}
+
+
+table {
+    /* border: 1px solid black; */
+    border-collapse: collapse;
+    text-align: right;
+    /* padding: 1rem; */
+    /* position: fixed;
+    top: 1rem;
+    left: 1rem; */
+    width: 100%;
+    /* min-width: 500px;
+    max-width: 800px; */
+    /* box-shadow: 0 0 20px rgba(0, 0, 0, 0.15); */
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-top: 1rem;
+    /* font-family: 'Times New Roman', Times, serif; */
+    /* border-radius: 1rem;
+    overflow: hidden; */
+}
+
+
+
+th, td {
+    border-bottom: 1px solid rgb(216, 211, 211);
+    padding: 5px;
+    text-transform: capitalize;
+    /* padding: 0.4rem 5px; */
+    /* padding-left: 2rem; */
+}
+
+td:first-of-type {
+    border-left: 1px solid rgb(216, 211, 211);
+}
+
+td:last-of-type {
+    border-right: 1px solid rgb(216, 211, 211);
+}
+
+th {
+    /* background-color: #00AE9F; */
+    border:1px solid rgb(216, 211, 211);
+    background-color: #10b981;
+    color: white;
+    padding: 5px;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+
+.table-colored .table-positive {
+    background-color: #10b98123;
+}
+
+.table-colored .table-negative {
+    background-color: #dc354621;
+}
+
+.table-colored .table-negative, .table-colored .table-positive {
+    border-radius: 8px;
+    padding: 5px;
+}
+
+
+.table-outer {
+    /* max-width: 500px; */
+    padding: 12px;
+    background-color: rgb(243, 241, 241);
+    margin: 0 auto;
+}
+
+.table-inner {
+    padding: 8px;
+    background-color: white;
+    border-radius: 8px;
+}
+
+
+.regular, .title, .total, .categorical {
+    display: flex;
+    justify-content: space-between;
+    /* background-color: red; */
+    margin: 2px;
+    padding: 2px 8px;
+    font-weight: bold;
+}
+
+.regular {
+    font-weight: normal;
+    border-bottom: 2px solid rgb(238, 236, 236);
+}
+
+.title {
+    /* font-size: 1.1rem; */
+    padding: 5px;
+    background-color: #10b981;
+    margin-top: 1rem;
+    color: white;
+}
+
+.total {
+    margin-bottom: 1rem;
+    background-color: rgb(243, 241, 241);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+
+.ratio-graph {
+    /* max-width: 30%; */
+    /* height: 20rem; */
+}
+
+.scales,.ratio-graph-container,.statement-container {
+    display: flex;
+    gap: 1rem;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.spider-graph {
+    width: 90%;
+    /* background-color: orange; */
+    padding: 1rem;
+    /* height: auto; */
+}
+
+.spider-graph, .ratio-graph,.statement-container > *     {
+    /* border: 1px solid red; */
+    border-radius: 1rem;
+    padding: 0.5rem;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.05);
+
+}
+
+.statement-container > * {
+    /* border: 1px solid red; */
+    max-width: 45%;
 }
 
 #year-selector, #month-selector {
@@ -86,4 +237,13 @@ h2 {
 
 #fin-container {
     margin-top: 6rem
+}
+
+
+.data-table {
+    padding: 0;
+    /* box-shadow: var(--light-box-shadow); */
+    max-width: 50%;
+    min-width: 500px;
+    margin: 2rem auto;
 }
